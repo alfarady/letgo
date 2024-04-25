@@ -2,12 +2,12 @@ package shopee
 
 import(
 	"testing"
-	shopeeConfig "github.com/wjpxxx/letgo/x/api/shopee/config"
-	"github.com/wjpxxx/letgo/x/api/shopee/commonentity"
-	//"github.com/wjpxxx/letgo/x/api/shopee/order"
-	//orderEntity "github.com/wjpxxx/letgo/x/api/shopee/order/entity"
-	//"github.com/wjpxxx/letgo/file"
-	//"github.com/wjpxxx/letgo/lib"
+	shopeeConfig "github.com/alfarady/letgo/x/api/shopee/config"
+	"github.com/alfarady/letgo/x/api/shopee/commonentity"
+	//"github.com/alfarady/letgo/x/api/shopee/order"
+	//orderEntity "github.com/alfarady/letgo/x/api/shopee/order/entity"
+	//"github.com/alfarady/letgo/file"
+	//"github.com/alfarady/letgo/lib"
 	"fmt"
 )
 func TestShopee(t *testing.T){

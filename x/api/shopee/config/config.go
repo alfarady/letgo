@@ -1,11 +1,11 @@
 package config
 
 import(
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/encry"
-	"github.com/wjpxxx/letgo/httpclient"
-	"github.com/wjpxxx/letgo/x/api/shopee/commonentity"
-	logisticsEntity "github.com/wjpxxx/letgo/x/api/shopee/logistics/entity"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/encry"
+	"github.com/alfarady/letgo/httpclient"
+	"github.com/alfarady/letgo/x/api/shopee/commonentity"
+	logisticsEntity "github.com/alfarady/letgo/x/api/shopee/logistics/entity"
 	"errors"
 	"fmt"
 	"strings"

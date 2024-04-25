@@ -1,7 +1,7 @@
 package commonentity
 
 import(
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 )
 
 //Result

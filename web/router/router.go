@@ -1,9 +1,9 @@
 package router
 
 import (
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/web/context"
-	"github.com/wjpxxx/letgo/web/filter"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/web/context"
+	"github.com/alfarady/letgo/web/filter"
 	"net/http"
 	"path"
 	"regexp"

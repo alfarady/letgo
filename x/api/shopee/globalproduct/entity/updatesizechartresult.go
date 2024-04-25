@@ -1,8 +1,8 @@
 package entity
 
 import (
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/x/api/shopee/commonentity"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/x/api/shopee/commonentity"
 )
 
 //UpdateGlobalSizeChartResult

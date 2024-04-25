@@ -1,11 +1,11 @@
 package server
 
 import (
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/web/context"
-	"github.com/wjpxxx/letgo/web/router"
-	"github.com/wjpxxx/letgo/web/tmpl"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/web/context"
+	"github.com/alfarady/letgo/web/router"
+	"github.com/alfarady/letgo/web/tmpl"
+	"github.com/alfarady/letgo/log"
 	syscontext "context"
 	"net/http"
 	"sync"

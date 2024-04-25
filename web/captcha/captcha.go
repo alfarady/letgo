@@ -9,8 +9,8 @@ import (
 
 	"github.com/golang/freetype/truetype"
 	"github.com/golang/freetype"
-	"github.com/wjpxxx/letgo/log"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/log"
+	"github.com/alfarady/letgo/lib"
 )
 
 //常量

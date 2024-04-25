@@ -2,12 +2,12 @@ package session
 
 import (
 	"fmt"
-	"github.com/wjpxxx/letgo/cache"
-	"github.com/wjpxxx/letgo/cache/filecache"
-	"github.com/wjpxxx/letgo/cache/icache"
-	"github.com/wjpxxx/letgo/encry"
-	"github.com/wjpxxx/letgo/file"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/cache"
+	"github.com/alfarady/letgo/cache/filecache"
+	"github.com/alfarady/letgo/cache/icache"
+	"github.com/alfarady/letgo/encry"
+	"github.com/alfarady/letgo/file"
+	"github.com/alfarady/letgo/lib"
 	"sync"
 	"time"
 )

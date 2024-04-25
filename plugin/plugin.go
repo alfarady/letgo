@@ -1,10 +1,10 @@
 package plugin
 
 import (
-	"github.com/wjpxxx/letgo/plugin/iplugin"
-	"github.com/wjpxxx/letgo/plugin/sync/syncclient"
-	"github.com/wjpxxx/letgo/plugin/sync/syncserver"
-	"github.com/wjpxxx/letgo/plugin/sync/syncconfig"
+	"github.com/alfarady/letgo/plugin/iplugin"
+	"github.com/alfarady/letgo/plugin/sync/syncclient"
+	"github.com/alfarady/letgo/plugin/sync/syncserver"
+	"github.com/alfarady/letgo/plugin/sync/syncconfig"
 )
 
 //pluginList

@@ -1,11 +1,11 @@
 package output
 
 import (
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/web/binding"
-	"github.com/wjpxxx/letgo/web/headerlock"
-	"github.com/wjpxxx/letgo/web/input"
-	//"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/web/binding"
+	"github.com/alfarady/letgo/web/headerlock"
+	"github.com/alfarady/letgo/web/input"
+	//"github.com/alfarady/letgo/log"
 	"html/template"
 	"net/http"
 )

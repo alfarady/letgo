@@ -2,7 +2,7 @@ package dcode
 
 import (
 	"bytes"
-	"github.com/wjpxxx/letgo/file"
+	"github.com/alfarady/letgo/file"
 	"go/ast"
 	"go/format"
 	"go/parser"

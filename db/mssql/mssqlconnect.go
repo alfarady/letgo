@@ -1,7 +1,7 @@
 package mssql
 
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 )
 
 //MsSqlConnect mssql连接配置数据

@@ -1,10 +1,10 @@
 package auth
 
 import(
-	"github.com/wjpxxx/letgo/lib"
-	shopeeConfig "github.com/wjpxxx/letgo/x/api/shopee/config"
-	"github.com/wjpxxx/letgo/x/api/shopee/auth/entity"
-	"github.com/wjpxxx/letgo/x/api/shopee/commonentity"
+	"github.com/alfarady/letgo/lib"
+	shopeeConfig "github.com/alfarady/letgo/x/api/shopee/config"
+	"github.com/alfarady/letgo/x/api/shopee/auth/entity"
+	"github.com/alfarady/letgo/x/api/shopee/commonentity"
 	"fmt"
 )
 

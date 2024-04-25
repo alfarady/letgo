@@ -1,7 +1,7 @@
 package httpclient
 
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 	"net/http"
 	"fmt"
 	"testing"

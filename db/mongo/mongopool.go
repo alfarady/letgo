@@ -3,7 +3,7 @@ package mongo
 import (
 	"context"
 	"fmt"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/log"
 	"strings"
 	"sync"
 	"time"

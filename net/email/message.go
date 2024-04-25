@@ -1,7 +1,7 @@
 package email
 
 import(
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 )
 
 //邮件消息

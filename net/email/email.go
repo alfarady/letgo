@@ -5,9 +5,9 @@ import (
 	"net/smtp"
 	"strings"
 	"net/http"
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/file"
-	"github.com/wjpxxx/letgo/encry"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/file"
+	"github.com/alfarady/letgo/encry"
 	"fmt"
 )
 /**

@@ -3,7 +3,7 @@ import (
 	"testing"
 	"time"
 	"fmt"
-	"github.com/wjpxxx/letgo/cron/context"
+	"github.com/alfarady/letgo/cron/context"
 )
 func TestTask(t *testing.T) {
 	RegisterTaskByMethodAndFilter("add",3,func(ctx *context.Context){

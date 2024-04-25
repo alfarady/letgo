@@ -1,9 +1,9 @@
 package shop
 
 import (
-	shopeeConfig "github.com/wjpxxx/letgo/x/api/shopee/config"
-	shopEntity "github.com/wjpxxx/letgo/x/api/shopee/shop/entity"
-	"github.com/wjpxxx/letgo/lib"
+	shopeeConfig "github.com/alfarady/letgo/x/api/shopee/config"
+	shopEntity "github.com/alfarady/letgo/x/api/shopee/shop/entity"
+	"github.com/alfarady/letgo/lib"
 )
 
 //Shop

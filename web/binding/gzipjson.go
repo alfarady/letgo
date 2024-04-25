@@ -2,8 +2,8 @@ package binding
 
 import (
 	"encoding/json"
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/web/headerlock"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/web/headerlock"
 	"errors"
 	"net/http"
 	"bytes"

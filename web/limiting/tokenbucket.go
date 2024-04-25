@@ -1,6 +1,6 @@
 package limiting
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 )
 
 //令牌桶算法

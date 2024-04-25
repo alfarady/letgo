@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 	"bytes"
-	"github.com/wjpxxx/letgo/web/headerlock"
+	"github.com/alfarady/letgo/web/headerlock"
 )
 
 //xmlBinding

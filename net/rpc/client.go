@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/log"
 	"net"
 	"net/rpc"
 	"net/rpc/jsonrpc"

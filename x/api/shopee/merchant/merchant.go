@@ -1,9 +1,9 @@
 package merchant
 
 import (
-	shopeeConfig "github.com/wjpxxx/letgo/x/api/shopee/config"
-	merchantEntity "github.com/wjpxxx/letgo/x/api/shopee/merchant/entity"
-	"github.com/wjpxxx/letgo/lib"
+	shopeeConfig "github.com/alfarady/letgo/x/api/shopee/config"
+	merchantEntity "github.com/alfarady/letgo/x/api/shopee/merchant/entity"
+	"github.com/alfarady/letgo/lib"
 )
 
 //Merchant

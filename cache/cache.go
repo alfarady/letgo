@@ -1,10 +1,10 @@
 package cache
 
 import (
-	"github.com/wjpxxx/letgo/cache/filecache"
-	"github.com/wjpxxx/letgo/cache/icache"
-	"github.com/wjpxxx/letgo/cache/memcache"
-	"github.com/wjpxxx/letgo/cache/redis"
+	"github.com/alfarady/letgo/cache/filecache"
+	"github.com/alfarady/letgo/cache/icache"
+	"github.com/alfarady/letgo/cache/memcache"
+	"github.com/alfarady/letgo/cache/redis"
 	"sync"
 )
 

@@ -1,10 +1,10 @@
 package redis
 
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 	"fmt"
 	"time"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/log"
 	"github.com/garyburd/redigo/redis"
 )
 

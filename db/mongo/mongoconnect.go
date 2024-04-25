@@ -1,6 +1,6 @@
 package mongo
 
-import "github.com/wjpxxx/letgo/lib"
+import "github.com/alfarady/letgo/lib"
 
 //MongoConnect
 type MongoConnect struct {

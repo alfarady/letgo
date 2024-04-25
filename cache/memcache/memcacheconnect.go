@@ -1,6 +1,6 @@
 package memcache
 
-import "github.com/wjpxxx/letgo/lib"
+import "github.com/alfarady/letgo/lib"
 
 //MemCacheConnect 连接配置
 type MemCacheConnect struct {

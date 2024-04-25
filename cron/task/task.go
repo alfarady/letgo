@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sort"
 	"time"
-	"github.com/wjpxxx/letgo/cron/context"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/cron/context"
+	"github.com/alfarady/letgo/lib"
 )
 
 //DoFunc

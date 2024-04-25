@@ -3,8 +3,8 @@ package mysql
 import(
 	"fmt"
 	"strings"
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/file"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/file"
 )
 
 //GenModelAndEntity 自动生成Model和Entity
@@ -198,8 +198,8 @@ func (g *genInfo) getModelTemplate()string{
 	tmp:=`package model
 
 import (
-    "github.com/wjpxxx/letgo/db/mysql"
-    "github.com/wjpxxx/letgo/lib"
+    "github.com/alfarady/letgo/db/mysql"
+    "github.com/alfarady/letgo/lib"
 	"%s/model/entity"
 )
 
@@ -269,7 +269,7 @@ func (g *genInfo)getEntityTemplate()string{
 	tmp:=`package entity
 
 import (
-    "github.com/wjpxxx/letgo/lib"
+    "github.com/alfarady/letgo/lib"
 )
 
 //%s

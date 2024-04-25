@@ -1,8 +1,8 @@
 package filter
 import (
 	"regexp"
-	"github.com/wjpxxx/letgo/web/context"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/web/context"
+	"github.com/alfarady/letgo/log"
 	"strings"
 	"fmt"
 )

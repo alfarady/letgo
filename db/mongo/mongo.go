@@ -2,15 +2,15 @@ package mongo
 
 import (
 	"context"
-	"github.com/wjpxxx/letgo/file"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/file"
+	"github.com/alfarady/letgo/lib"
 	"fmt"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/log"
 )
 
 //MongoDB

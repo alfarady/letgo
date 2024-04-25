@@ -1,11 +1,11 @@
 package mssql
 
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 	"database/sql"
 	"fmt"
 	"time"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/log"
 	"sync"
 )
 

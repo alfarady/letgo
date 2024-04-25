@@ -1,11 +1,11 @@
 package api
 
 import (
-	"github.com/wjpxxx/letgo/file"
-	"github.com/wjpxxx/letgo/net/rpc"
-	"github.com/wjpxxx/letgo/plugin/sync/syncconfig"
+	"github.com/alfarady/letgo/file"
+	"github.com/alfarady/letgo/net/rpc"
+	"github.com/alfarady/letgo/plugin/sync/syncconfig"
 	"path/filepath"
-	"github.com/wjpxxx/letgo/log"
+	"github.com/alfarady/letgo/log"
 	//"fmt"
 )
 

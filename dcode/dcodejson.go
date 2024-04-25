@@ -2,7 +2,7 @@ package dcode
 
 import (
 	"fmt"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 	"go/ast"
 	"go/token"
 	"strings"
@@ -58,7 +58,7 @@ func (c *DCodeJson) Finish() {
 		}
 	}
 	if c.hasJson {
-		CreateImport(c.mfile, "github.com/wjpxxx/letgo/lib")
+		CreateImport(c.mfile, "github.com/alfarady/letgo/lib")
 	}
 }
 

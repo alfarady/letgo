@@ -4,9 +4,9 @@ import (
 	"sync"
 	"sort"
 	"time"
-	"github.com/wjpxxx/letgo/cron/context"
-	"github.com/wjpxxx/letgo/log"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/cron/context"
+	"github.com/alfarady/letgo/log"
+	"github.com/alfarady/letgo/lib"
 	"strings"
 )
 

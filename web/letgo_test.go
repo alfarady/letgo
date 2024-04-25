@@ -1,12 +1,12 @@
 package web
 
 import (
-	"github.com/wjpxxx/letgo/lib"
-	"github.com/wjpxxx/letgo/web/limiting"
-	"github.com/wjpxxx/letgo/web/context"
+	"github.com/alfarady/letgo/lib"
+	"github.com/alfarady/letgo/web/limiting"
+	"github.com/alfarady/letgo/web/context"
 	"fmt"
 	"testing"
-	"github.com/wjpxxx/letgo/web/filter"
+	"github.com/alfarady/letgo/web/filter"
 )
 
 

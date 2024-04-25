@@ -1,7 +1,7 @@
 package mysql
 
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 )
 //MysqlConnect mysql连接配置数据
 type MysqlConnect struct {

@@ -1,7 +1,7 @@
 package redis
 
 import (
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 	"fmt"
 	"testing"
 )

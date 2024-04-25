@@ -2,7 +2,7 @@ package dcode
 
 import (
 	"fmt"
-	"github.com/wjpxxx/letgo/lib"
+	"github.com/alfarady/letgo/lib"
 	"go/ast"
 	"go/token"
 	"strconv"
@@ -39,8 +39,8 @@ type packageInfo struct {
 //getNeedImport
 func getNeedImport() map[string]*packageInfo {
 	ret := make(map[string]*packageInfo)
-	ret["context"] = &packageInfo{name: "github.com/wjpxxx/letgo/web/context", need: false}
-	ret["lib"] = &packageInfo{name: "github.com/wjpxxx/letgo/lib", need: false}
+	ret["context"] = &packageInfo{name: "github.com/alfarady/letgo/web/context", need: false}
+	ret["lib"] = &packageInfo{name: "github.com/alfarady/letgo/lib", need: false}
 	ret["fmt"] = &packageInfo{name: "fmt", need: false}
 	return ret
 }
@@ -106,7 +106,7 @@ func (c *DCodeController) funcDecl(fn *ast.FuncDecl) {
 	//ast.Print(c.fset,fn)
 }
 
-//是否包含github.com/wjpxxx/letgo/web/context
+//是否包含github.com/alfarady/letgo/web/context
 func (c *DCodeController) needContext(file *ast.File) {
 	for _, v := range file.Unresolved {
 		for k2, _ := range needImport {

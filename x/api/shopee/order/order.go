@@ -1,9 +1,9 @@
 package order
 
 import (
-	shopeeConfig "github.com/wjpxxx/letgo/x/api/shopee/config"
-	"github.com/wjpxxx/letgo/x/api/shopee/order/entity"
-	"github.com/wjpxxx/letgo/lib"
+	shopeeConfig "github.com/alfarady/letgo/x/api/shopee/config"
+	"github.com/alfarady/letgo/x/api/shopee/order/entity"
+	"github.com/alfarady/letgo/lib"
 	"strings"
 )
 const (

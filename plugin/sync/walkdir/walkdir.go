@@ -1,8 +1,8 @@
 package walkdir
 
 import (
-	"github.com/wjpxxx/letgo/log"
-	"github.com/wjpxxx/letgo/file"
+	"github.com/alfarady/letgo/log"
+	"github.com/alfarady/letgo/file"
 	"io/ioutil"
 	"path/filepath"
 	"strings"

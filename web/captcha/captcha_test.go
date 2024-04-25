@@ -3,7 +3,7 @@ package captcha
 import (
 	"testing"
 	"image/color"
-	"github.com/wjpxxx/letgo/file"
+	"github.com/alfarady/letgo/file"
 )
 
 func TestCaptcha(t *testing.T){

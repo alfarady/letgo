@@ -16,7 +16,7 @@ import (
 
 	"github.com/golang/freetype"
 	"github.com/golang/freetype/truetype"
-	"github.com/wjpxxx/letgo/file"
+	"github.com/alfarady/letgo/file"
 )
 
 //Image
